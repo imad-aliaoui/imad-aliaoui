@@ -20,8 +20,8 @@
   #### - Azure Fundamentals (AZ-900) : Bases du cloud et gestion des services Azure.
   #### - GitHub Foundations : Collaboration et gestion de dépôts Git.
 
-### Contactez-moi
-  #### - Email : a.imad@live.ca
-  #### - LinkedIn : @imadaliaoui
+## Contactez-moi
+  ### - Email : a.imad@live.ca
+  ### - LinkedIn : @imadaliaoui
 
 # Merci d’avoir visité mon profil GitHub ! 🚀
