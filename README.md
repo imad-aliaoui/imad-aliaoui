@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @imad-aliaoui
 
 
-## Etudiant en Licence MIASHS (Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales) à l'Université Paris 1 Panthéon Sorbonne, avec une spécialisation en informatique. Mon objectif est de continuer à développer mes compétences en informatique et gestion pour exceller dans des projets mêlant innovation et technologies.
+## Etudiant en Licence MIASHS à l'Université Paris 1 Panthéon Sorbonne, avec une spécialisation en informatique.
 
 ## Compétences techniques
 ### Langages de programmation :
